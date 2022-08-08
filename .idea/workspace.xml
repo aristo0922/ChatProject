@@ -4,13 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbcdfcda-59c1-45a3-88ae-a1845d0476b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ChatProject/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatProject/main.py" afterDir="false" />
+    <list default="true" id="cbcdfcda-59c1-45a3-88ae-a1845d0476b5" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/ChatProject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatProject/sql_app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatProject/sql_app/crud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatProject/sql_app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatProject/sql_app/schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatProject/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChatProject/sql_app/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,9 +43,15 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/aristo/ChatProject&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ChatProject/sql_app" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,5 +62,16 @@
       <updated>1659950838737</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
