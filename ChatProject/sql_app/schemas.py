@@ -20,8 +20,11 @@ class Item(ItemBase):
         orm_mode = True
 
 
+#----------------------------
+
 class UserBase(BaseModel):
     email: str
+    user_name : str
 
 
 class UserCreate(UserBase):
