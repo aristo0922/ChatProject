@@ -5,7 +5,7 @@ with fastapi
 
 fastapi 를 이용해서 채팅하는 서비스를 구현해본다
 1. 회원가입
-- db연결하기 : 완
+- db연결하기 : 완 -> https://blog.naver.com/dkfud2121/222844136257 
 - api만들기
 2. 실시간 채팅
 3. 채팅 로그 확인
